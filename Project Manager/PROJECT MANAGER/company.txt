@@ -1,0 +1,187 @@
+WIX
+0543213459
+Wix@suport.com
+5
+1
+Elon Musk
+0525042031
+ElonMusk@Cool.com
+2
+Guy Simai
+0520520521
+GuySimai@gmail.com
+3
+Marco Tsyrlin
+0527867450
+MarcoTsyrlin123@gmail.com
+4
+Pizza Hut
+0523455432
+PizzaHut@support.com
+5
+Yogev
+0546547899
+Yogev@gmail.com
+0
+3
+Tamar
+0535634351
+Tamar@gmail.com
+2
+4
+Ben
+0534354357
+Ben@walla.com
+1
+7
+Yotam
+0524560982
+Yotam@gmail.com
+3
+6
+6
+1
+Alon
+0546578762
+Alon@gmail.com
+3
+9
+2
+Victor
+0540540231
+Victor@afeka.com
+1
+6
+3
+Itamar
+0536708769
+ItamarTheSomething@gmail.com
+2
+3
+4
+Anat
+0524323331
+Anat@gmail.com
+0
+5
+5
+Fema
+0525679821
+Fema@gmail.com
+0
+4
+6
+Mark
+0534598789
+Mark@gmail.com
+3
+2
+3
+1
+Pizza Website
+4
+Appealing Website
+Lots of fetures
+Discounts
+Upsells
+4
+Pizza Hut
+0523455432
+PizzaHut@support.com
+12
+11
+2024
+0
+-1
+4
+1
+2
+3
+5
+4
+1
+Manager
+0
+1
+2
+Software
+0
+2
+3
+Work with the front end developer
+0
+3
+4
+Do Good Work
+0
+3
+1
+4
+1500
+2
+0
+1
+SpaceX
+3
+Space Looking website
+Appealing for all customers who like space
+Blog
+1
+Elon Musk
+0525042031
+ElonMusk@Cool.com
+12
+10
+2024
+1
+-1
+2
+1
+3
+2
+5
+Alon help Elon to do good website
+1
+1
+6
+Design Good Website
+0
+3
+2
+2
+800
+0
+2
+1
+Guy Blog
+3
+Working online
+Traveling information
+Contact info
+2
+Guy Simai
+0520520521
+GuySimai@gmail.com
+12
+12
+2024
+2
+1
+5
+Damn this project is the best thank you!
+1
+4
+1
+11
+Work with React Native
+2
+4
+3
+1
+0
+1
+1
+12
+12
+2024
+1450
