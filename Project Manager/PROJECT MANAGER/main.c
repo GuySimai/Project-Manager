@@ -10,7 +10,7 @@ typedef enum{
     eToProjectManagementSystem , ePayPayment ,  eNofMenuOptions} eMenuOptionsMenu;
 
 const char* str[eNofMenuOptions] = { "Print Company","Print Component Of The Company","Add Component To The Company",
-                                     "Remove Component To The Company" ,"Sort Client", "Find Client",
+                                     "Remove Component From The Company" ,"Sort Client", "Find Client",
                                      "Enter To Project Management System" , "Pay payment"};
 
 
